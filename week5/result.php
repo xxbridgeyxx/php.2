@@ -11,3 +11,4 @@ if ($res > 100 || $res < 0){
 }elseif ($res < 50){
     echo "D";
 }
+?>

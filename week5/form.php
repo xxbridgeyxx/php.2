@@ -5,7 +5,7 @@ method in form is your request method
 name inside input box is
 <form action="result.php" method="post">
     <p>
-        mark: <input type="number" name="mark">
+        mark: <input type="password" name="mark">
     </p>
     <p>
         <input type="submit" value="show">
