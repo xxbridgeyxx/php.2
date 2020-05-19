@@ -8,3 +8,5 @@ if (isset($_POST["width"])){
     echo "go back to form page";
 }
 
+function calculateArea($width, $height);
+
