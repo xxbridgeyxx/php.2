@@ -29,7 +29,7 @@ $i++;
 //mysql://sf6mcpjg9mp3fqnc:zv91vgnxsb4bggba@kf3k4aywsrp0d2is.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/hwedspsyvc8ffi0y
 $cfg['Servers'][$i]['auth_type'] = 'config';
 $cfg['Servers'][$i]['user'] = 'm93jl91jyplqicdr';
-$cfg['Servers'][$i]['password'] = 'zv91vgnxsb4bggba';
+$cfg['Servers'][$i]['password'] = 'bj3txjw0ns0614qs';
 /* Server parameters */
 $cfg['Servers'][$i]['host'] = 'i2cpbxbi4neiupid.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
 $cfg['Servers'][$i]['compress'] = false;
